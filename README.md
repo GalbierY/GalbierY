@@ -16,18 +16,32 @@
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 
-**Frameworks & Tools:**   yt
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikitlearn) ![XGBoost](https://img.shields.io/badge/-XGBoost-333?style=flat&logo=xgboost)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi) ![MLflow](https://img.shields.io/badge/-MLflow-333?style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) ![Databricks](https://img.shields.io/badge/-Databricks-333?style=flat&logo=databricks)
+## 🛠️ Frameworks & Tools
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/-XGBoost-333?style=flat&logo=xgboost)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
+![MLflow](https://img.shields.io/badge/-MLflow-333?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Databricks](https://img.shields.io/badge/-Databricks-333?style=flat&logo=databricks)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+
+**Others:** SIL, CarMaker, Simulink
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YgorGalbier&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YgorGalbier&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GalbierY&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GalbierYr&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
