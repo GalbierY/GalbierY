@@ -1,6 +1,7 @@
 # 👋 Hello! I'm Ygor Galbier
 
-🎓 Software Engineer | 💻 Python Developer | 🧠 ML & Data Science Enthusiast  
+🎓 Software Engineer | 💻 Python Developer | 🧠 ML & Data Science Enthusiast | 🤖 Data Scientist 
+
 🇧🇷 Based in Brazil | 🌐 Open to remote opportunities
 
 ---
@@ -35,21 +36,11 @@
 
 **Others:** SIL, CarMaker, Simulink
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GalbierY&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GalbierYr&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 | Name | Description | Tech |
 |------|-------------|------|
+| [🚗 Calibration Tool](https://github.com/GalbierY/Calibration_Tool) | Calibration tool inspired by real-world automotive calibration experience. It allows calibrating a simulation model based on real vehicle measurements (MF4 file), enabling the creation of realistic virtual car models. Related paper: [link](https://www.proceedings.blucher.com.br/article-details/usando-algoritmo-baseado-em-dados-de-ia-para-auxiliar-no-desenvolvimento-de-adas-39668) | PyGAD, Genetic Algorithm |
 | [⚡ Electric Vehicle Battery Optimization](https://github.com/GalbierY/Black_Box) | Algorithm to find the best parameters of a black box using SIL and Bayesian Optimization. | Python, scikit-learn, SciPy |
 | [😷 Facial Recognition with Masks](https://github.com/GalbierY/Facial_recognition_Mask) | Facial recognition system for people wearing masks. | scikit-learn, TensorFlow, NumPy, Keras |
 | [😻 Cat Recognition and Classifier](https://github.com/GalbierY/My_Cats) | Identifies and classifies my 3 cats, organizing them into albums. | Flask, scikit-learn, HTML, JavaScript, CSS |
@@ -59,6 +50,6 @@
 ## 📫 Contact
 
 - 📧 Email: ygorgalbierlopes@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YgorGalbier)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ygor-galbier/)  
 
 ---
