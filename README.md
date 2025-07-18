@@ -50,7 +50,7 @@ SIL, CarMaker, Simulink
 
 | Name | Description | Tech |
 |------|-------------|------|
-| [🚗 Calibration Tool](https://github.com/GalbierY/Calibration_Tool) | Calibration tool inspired by real-world automotive calibration experience. It uses genetic algorithms to tune simulation model parameters based on real vehicle measurements (MF4 files), enabling the creation of realistic virtual car models. My paper: [Paper](https://www.proceedings.blucher.com.br/article-details/usando-algoritmo-baseado-em-dados-de-ia-para-auxiliar-no-desenvolvimento-de-adas-39668) | PyGAD, Genetic Algorithm, Pytest |
+| [🚗 Calibration Tool](https://github.com/GalbierY/Calibration_Tool) | Calibration tool inspired by real-world automotive calibration experience. It uses genetic algorithms to tune simulation model parameters based on real vehicle measurements (MF4 files), enabling the creation of realistic virtual car models. My paper: [Paper](https://www.proceedings.blucher.com.br/article-details/usando-algoritmo-baseado-em-dados-de-ia-para-auxiliar-no-desenvolvimento-de-adas-39668) | PyGAD, Genetic Algorithm, PyTest |
 | [⚡ Electric Vehicle Battery Optimization](https://github.com/GalbierY/Black_Box) | Algorithm to find the best parameters of a black box using SIL and Bayesian Optimization. | Python, scikit-learn, SciPy |
 | [😷 Facial Recognition with Masks](https://github.com/GalbierY/Facial_recognition_Mask) | Facial recognition system for people wearing masks. | scikit-learn, TensorFlow, NumPy, Keras |
 | [😻 Cat Recognition and Classifier](https://github.com/GalbierY/My_Cats) | Identifies and classifies my 3 cats, organizing them into albums. | Flask, scikit-learn, HTML, JavaScript, CSS |
