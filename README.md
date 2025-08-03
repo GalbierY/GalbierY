@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Ygor Galbier
+# 👋 I'm Ygor Galbier
 
 🎓 Software Engineer | 💻 Python Developer | 🧠 ML & Data Science Enthusiast | 🤖 Data Scientist 
 
@@ -54,6 +54,14 @@ SIL, CarMaker, Simulink
 | [⚡ Electric Vehicle Battery Optimization](https://github.com/GalbierY/Black_Box) | Algorithm to find the best parameters of a black box using SIL and Bayesian Optimization. | Python, scikit-learn, SciPy |
 | [😷 Facial Recognition with Masks](https://github.com/GalbierY/Facial_recognition_Mask) | Facial recognition system for people wearing masks. | scikit-learn, TensorFlow, NumPy, Keras |
 | [😻 Cat Recognition and Classifier](https://github.com/GalbierY/My_Cats) | Identifies and classifies my 3 cats, organizing them into albums. | Flask, scikit-learn, HTML, JavaScript, CSS |
+
+---
+
+## 📌My Articles
+
+- [Bayesian Optimization for ADAS Development: Balancing Safety and Comfort in an AEB Use Case](ComingSoon)
+- [Data-driven application for the development of ADAS simulation frameworks (SIL)](https://www.proceedings.blucher.com.br/article-details/usando-algoritmo-baseado-em-dados-de-ia-para-auxiliar-no-desenvolvimento-de-adas-39668)
+- [Efficient Multi-Objective Optimization of AEB Systems: A Comparative Study of Sweeping and NSGA-II](ComingSoon)
 
 ---
 
