@@ -14,30 +14,16 @@
 
 ## 🛠️ Tech Stack
 
-| **Languages:** |  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) |
-| **Machine Learning & Data Science:** | 
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikitlearn)
-![XGBoost](https://img.shields.io/badge/-XGBoost-333?style=flat&logo=xgboost)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras)
-![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
-![PyGAD](https://img.shields.io/badge/-PyGAD-333?style=flat&logo=python)
-![MLflow](https://img.shields.io/badge/-MLflow-333?style=flat)|
-| **Web & APIs:** | 
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask) |
-| **DevOps & Cloud:** |  
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![Databricks](https://img.shields.io/badge/-Databricks-333?style=flat&logo=databricks) |
-| **Testing:** |
-![PyTest](https://img.shields.io/badge/-PyTest-333?style=flat&logo=pytest) |
-| **Frontend:** |  
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3) |
-| **Others:** | 
-SIL, CarMaker, Simulink |
+| **Categoria**                    | **Tecnologias**                                                                                                                                                                                                                                                                          |
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**                    | ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)                                                                                                                                                                                                               |
+| **Machine Learning & Data Science** | ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikitlearn) ![XGBoost](https://img.shields.io/badge/-XGBoost-333?style=flat&logo=xgboost) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras) ![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy) ![PyGAD](https://img.shields.io/badge/-PyGAD-333?style=flat&logo=python) ![MLflow](https://img.shields.io/badge/-MLflow-333?style=flat) |
+| **Web & APIs**                   | ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)                                                                                                                                   |
+| **DevOps & Cloud**              | ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) ![Databricks](https://img.shields.io/badge/-Databricks-333?style=flat&logo=databricks)                                                                                                                     |
+| **Testing**                      | ![PyTest](https://img.shields.io/badge/-PyTest-333?style=flat&logo=pytest)                                                                                                                                                                                                              |
+| **Frontend**                     | ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)                                                        |
+| **Others**                       | SIL, CarMaker, Simulink                                                                                                                                                                                                                                                                  |
+
 
 
 ## 📂 Featured Projects
