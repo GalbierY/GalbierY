@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 About Me
-- 📚 Passionate about Machine Leaning, IA, Optimization, Scalable Software Using Machine Learning and Static models.
-- 🎯 Goal: Contribute to impactful and well-engineered open source projects, applying intelligent search strategies and machine learning techniques to solve real-world problems and drive meaningful change.
+- 📚 Passionate machine learning, artificial intelligence, and optimization. I specialize in building scalable software solutions powered by predictive models and intelligent search techniques.
+- 🎯 My goal is to contribute to well-engineered open-source projects that solve real-world problems through smart algorithms and robust machine learning pipelines — driving innovation and meaningful impact.
 
 ---
 
