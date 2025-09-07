@@ -42,7 +42,7 @@
 
 - [Bayesian Optimization for ADAS Development: Balancing Safety and Comfort in an AEB Use Case](ComingSoon)
 - [Data-driven application for the development of ADAS simulation frameworks (SIL)](https://www.proceedings.blucher.com.br/article-details/usando-algoritmo-baseado-em-dados-de-ia-para-auxiliar-no-desenvolvimento-de-adas-39668)
-- [Efficient Multi-Objective Optimization of AEB Systems: A Comparative Study of Sweeping and NSGA-II](ComingSoon)
+- [Efficient Multi-Objective Optimization of AEB Systems: A Comparative Study of Sweeping and NSGA-II]([ComingSoon](https://www.proceedings.blucher.com.br/article-details/otimizao-multiobjetivo-eficiente-de-sistemas-aeb-um-estudo-comparativo-entre-sweeping-e-nsga-ii-40308))
 
 ---
 
