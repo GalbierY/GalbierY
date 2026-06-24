@@ -1,60 +1,65 @@
 # Ygor Galbier
 
-**Senior Python Engineer | Data Engineering | MLOps | Simulation and Validation Systems**
+**Senior Python Engineer | Data Engineering | MLOps | ADAS and HIL Automation**
 
 Based in Brazil. Open to remote opportunities.
 
-I build data-driven engineering systems that connect Python automation, machine learning, simulation workflows, and validation pipelines. My work is strongest at the intersection of data engineering, MLOps, and automotive ADAS/SIL/HIL environments: turning complex engineering data into reliable tools, measurable workflows, and production-oriented automation.
+## About
 
-## What I Work On
+I build data-driven engineering systems with Python, machine learning, optimization, and simulation workflows. My experience is strongest in automotive validation environments, especially ADAS, SIL, and HIL workflows, where I develop tools for data processing, test automation, model evaluation, and engineering analytics.
 
-- Python data pipelines for simulation, validation, analytics, and reporting.
-- ETL-style workflows for MF4, CSV, JSON, and engineering measurement data.
-- Machine learning workflows for model evaluation, optimization, and surrogate modeling.
-- Automated validation pipelines with Pytest, CI/CD, and reproducible tooling.
-- Internal platforms and dashboards for engineering teams.
-- Simulation-based optimization using Bayesian Optimization and Genetic Algorithms.
+I focus on practical systems: maintainable Python code, reproducible pipelines, automated validation, clear architecture, and tools that engineering teams can use in real workflows.
+
+## Focus Areas
+
+- Python data pipelines for simulation, validation, analytics, and reporting
+- ETL-style workflows for MF4, CSV, JSON, and engineering measurement data
+- Machine learning workflows for optimization, model evaluation, and surrogate modeling
+- Automated validation pipelines using Pytest, CI/CD, and reproducible tooling
+- Internal dashboards and tools for engineering and data workflows
+- Simulation-based optimization using Bayesian Optimization and Genetic Algorithms
 
 ## Selected Projects
 
-### [Black_Box](https://github.com/GalbierY/Black_Box)
-Bayesian Optimization framework for simulation-based systems. It compares optimization and sweeping approaches, generates Pareto fronts, trains Gaussian Process surrogate models, and exports experiment data for analysis.
+### [ADAS Calibration Tool](https://github.com/GalbierY/Calibration_Tool)
 
-**Tech:** Python, NumPy, SciPy, scikit-learn, Gaussian Processes, Matplotlib, CSV pipelines.
+Data-driven calibration tooling using Genetic Algorithms and real engineering data. The project supports ADAS calibration workflows and is connected to published work on AI-assisted ADAS development.
+
+**Tech:** Python, PyGAD, optimization, validation workflows
+
+### [Black_Box](https://github.com/GalbierY/Black_Box)
+
+Bayesian Optimization framework for simulation-based systems. It compares optimization strategies against parameter sweeping, builds Gaussian Process surrogate models, generates Pareto front analysis, and exports experiment results for engineering evaluation.
+
+**Tech:** Python, NumPy, SciPy, scikit-learn, Gaussian Processes, Matplotlib
 
 ### [ml-evaluator](https://github.com/GalbierY/ml-evaluator)
-Dockerized Streamlit dashboard for evaluating and comparing machine learning regression models from uploaded CSV files. Includes metrics, residual analysis, prediction plots, and automated tests.
 
-**Tech:** Python, Streamlit, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Docker, Pytest.
+Streamlit dashboard for evaluating and comparing regression models from CSV prediction data. It supports model comparison, residual analysis, prediction distributions, error patterns, automated tests, and Docker-based execution.
 
-### [Calibration_Tool](https://github.com/GalbierY/Calibration_Tool)
-Data-driven ADAS calibration work using optimization techniques and real engineering data. Connected to published work on AI-based support for ADAS development.
+**Tech:** Python, Streamlit, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Docker, Pytest
 
-**Tech:** Python, Genetic Algorithms, PyGAD, automotive calibration, validation workflows.
+### [Facial_recognition_Mask](https://github.com/GalbierY/Facial_recognition_Mask)
 
-### [planilha_do_mozaum](https://github.com/GalbierY/planilha_do_mozaum)
-Desktop workflow tool for social assistance operations, including local data management, records, sessions, attachments, reports, XLSX import workflows, backup/restore, access control, and audit trail.
+Computer vision project focused on face recognition scenarios with masked faces.
 
-**Tech:** Python, Tkinter, local data workflows, XLSX import/export, reporting, packaging.
+**Tech:** TensorFlow, Keras, NumPy
 
-### [House_Helper](https://github.com/GalbierY/House_Helper)
-Full-stack prototype for integrating Microsoft Teams data and time-tracking sources through a single dashboard.
+### [INOVA_plots](https://github.com/GalbierY/INOVA_plots)
 
-**Tech:** TypeScript, React, Vite, Express, Microsoft Graph, Azure AD OAuth/MSAL, REST APIs.
+Data visualization tools for engineering analysis and reporting.
 
-## Core Technical Stack
+**Tech:** Python, data visualization, engineering analytics
 
-**Languages:** Python, SQL, JavaScript/TypeScript, C++
+## Technical Stack
 
-**Data Engineering:** ETL/ELT pipelines, data processing, data validation, feature extraction, reporting, workflow automation, data modeling concepts.
-
-**Python and ML:** Pandas, NumPy, scikit-learn, SciPy, joblib, Pytest, Streamlit, Gaussian Processes, Bayesian Optimization, Genetic Algorithms.
-
-**MLOps and Tooling:** Docker, Git, CI/CD pipelines, automated testing, reproducible experiments, model evaluation dashboards.
-
-**Engineering Data:** MF4/asammdf, simulation outputs, ADAS validation data, SIL/HIL workflows, measurement processing.
-
-**Backend and Integrations:** Flask/FastAPI, Express, REST APIs, Microsoft Graph, Azure AD OAuth/MSAL, web scraping and automation.
+- **Languages:** Python, SQL, JavaScript / TypeScript, C++
+- **Data Engineering:** ETL-style pipelines, data processing, validation, reporting, CSV / JSON / XLSX workflows
+- **Python Ecosystem:** Pandas, NumPy, SciPy, scikit-learn, Streamlit, Pytest
+- **Machine Learning:** Bayesian Optimization, Genetic Algorithms, Gaussian Processes, model evaluation
+- **Backend and Applications:** Flask, FastAPI, REST APIs, desktop tooling, dashboards
+- **DevOps and Quality:** Docker, Git, CI/CD pipelines, automated tests
+- **Engineering Data:** MF4 / asammdf, CarMaker, Simulink, SIL / HIL validation workflows
 
 ## Publications
 
@@ -65,4 +70,3 @@ Full-stack prototype for integrating Microsoft Teams data and time-tracking sour
 
 - Email: ygorgalbierlopes@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ygor-galbier/
-- GitHub: https://github.com/GalbierY
